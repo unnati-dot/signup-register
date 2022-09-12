@@ -1,6 +1,6 @@
 <?php
 session_start();
-header('location:login.php');
+header('location:index.php');
 $con = mysqli_connect('localhost','root','');
 mysqli_select_db($con,'userlogin');
 
