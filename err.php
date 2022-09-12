@@ -9,7 +9,7 @@
 <body>
 	<div class="container" style="margin: 30px !important;">
 		<h1 style="background-color: red; color: white; font-family: cursive;">Username already taken!!</h1>
-		<a  href="login.php">Go Back</a>
+		<a  href="index.php">Go Back</a>
 	</div>
 
 </body>

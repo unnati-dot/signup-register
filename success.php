@@ -9,7 +9,7 @@
 <body>
 	<div class="container">
 		<h1 style="background-color:green; color:white;">Registration successful!!</h1>
-		<a  href="login.php">Go Back</a>
+		<a  href="index.php">Go Back</a>
 	</div>
 
 </body>
